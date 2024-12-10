@@ -1,87 +1,59 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: James Gaunt Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# James Gaunt
+Student at Brigham Young University-Idaho
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Studying Geographic Information Systems at BYU-I
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2016-2024`
+__Bachelor of Arts: Brigham Young University-Idaho__
 
 
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+## Work Experience
 
 
+#### Vivint Smarthome
 
-## Publications
+`2016-2020`
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Worked as a Monitoring Agent
 
 
-## Occupation
+#### Greenix Pest Control
 
-`1600`
-__Royal Mint__, London
+`2020-2021`
 
-- Warden
-- Minted coins
+Worked as a Pro Support Agent
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
+#### Fluent Solar
+
+`2022`
+
+Worked as an Inspections Agent
+
+
+#### ION Solar
+
+`2023`
+
+Worked as a Permitting agent
+
+
+#### City of Idaho Falls
+
+`2024`
+
+Worked as a GIS intern
 
 
 <!-- ### Footer
