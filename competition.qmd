@@ -1,10 +1,7 @@
 ---
-title: "about me"
+title: "About Me"
 subtitle: "my data science portfolio"
 # use quarto markdown to 
 ---
 
-# Title 1 Header
-## Title 2 Header
-
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+#### There really isn't much to say here. I am an international studies student that needed this one class for my minor in GIS. I have never done any programming projects outside of a class. I aspire to become a cartographer, GIS technician/specialist, and/or professional drone pilot.
